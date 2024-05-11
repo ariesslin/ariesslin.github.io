@@ -3,6 +3,7 @@ title: An interesting mindset when looking at big data problems
 author: ariesslin
 date: 2024-05-11 01:55:00 +0100
 categories: [Blogging]
+published: false
 tags: [Learning Notes]
 image:
   path: /assets/img/covers/studying-the-rhythmic-waves-in-a-sea-of-digital-code-presenting-an-intriguing-a-wbch82xg.jpeg
