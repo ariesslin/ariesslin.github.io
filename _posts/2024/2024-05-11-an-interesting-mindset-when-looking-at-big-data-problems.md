@@ -4,6 +4,9 @@ author: ariesslin
 date: 2024-05-11 01:55:00 +0100
 categories: [Blogging]
 tags: [Learning Notes]
+image:
+  path: /assets/img/covers/studying-the-rhythmic-waves-in-a-sea-of-digital-code-presenting-an-intriguing-a-wbch82xg.jpeg
+  alt: AI-generated art by Ralph from <a href="https://pixexid.com/image/studying-the-rhythmic-waves-in-a-sea-of-digital-code-presenting-an-intriguing-a-wbch82xg">Pixexid</a>
 ---
 
 I found this slide by Matei Zaharia on the internet: [Design and Evolution of Data Platforms](https://canvas.stanford.edu/files/7194229/download?download_frd=1&verifier=FURSC3KOxraw9KRiJupUgU77ybCWnbYCeaqjTCjY).

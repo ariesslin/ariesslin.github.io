@@ -4,6 +4,9 @@ author: ariesslin
 date: 2024-05-04 20:34:00 +0100
 categories: [Blogging]
 tags: [Thoughts]
+image:
+  path: /assets/img/covers/chromatic-koi-serenity-mko08i3l.jpeg
+  alt: AI-generated art by Unreal from <a href="https://pixexid.com/image/chromatic-koi-serenity-mko08i3l">Pixexid</a>
 ---
 
 Finally I've built yet another github.io personal website.
